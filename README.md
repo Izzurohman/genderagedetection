@@ -36,5 +36,5 @@ Input from image
 
 ## Screenshots
 
-![App Screenshot](image/Screenshot 2023-05-09 142502.png)
+![App Screenshot](image/Screenshot.png)
 
