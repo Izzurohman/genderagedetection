@@ -30,7 +30,7 @@ Input from image
 ```bash
   python gad.py --image [image-path]
   // example
-  python gad.py --image image/tzuyu.jpg
+  python gad.py --image image/ruzi.jpg
 ```
 
 
